@@ -1,0 +1,1 @@
+To resolve this issue, ensure that all classes used in `@apply` directives are defined within the same layer.  If you need to use classes from a different layer, consider using utility-first approach or creating a new component that combines the necessary styles.
